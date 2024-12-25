@@ -24,5 +24,8 @@ public class Car {
     public String get_color(){
         return color;
     }
+    public String get_model(){
+        return model;
+    }
 
 }
